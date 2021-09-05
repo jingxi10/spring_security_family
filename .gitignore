@@ -1,0 +1,3 @@
+# Project exclude paths
+/springboot_secuirity_oauth/rao_oauth_server/target/
+/springboot_secuirity_oauth/rao_oauth_source/target/
